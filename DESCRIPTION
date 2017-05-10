@@ -1,0 +1,14 @@
+Package: AssFunc
+Type: Package
+Title: What the package does (short line)
+Version: 0.0.0.9000
+Date: 2016-04-25
+Authors@R: person("Connor", "White", email = "Connor.White@gmail.com",
+                  role = c("aut", "cre"))
+Description: Assorted functions with timeseries data
+License: MIT + file LICENSE
+Imports:
+    plyr,
+    raster,
+    proj4
+RoxygenNote: 5.0.1
